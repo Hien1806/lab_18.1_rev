@@ -1,0 +1,19 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: linear-gradient(rgba(34, 34, 34, 0.7), rgba(34, 34, 34, 0.7)), url("https://images.pexels.com/photos/1131458/pexels-photo-1131458.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+}
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image:linear-gradient(rgba(34, 34, 34, 0.7), rgba(34, 34, 34, 0.7)), url("https://images.pexels.com/photos/2356071/pexels-photo-2356071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+.bg-img3 {
+    background-color: #000;
+    background-size: cover;
+    background-image: linear-gradient(rgba(34, 34, 34, 0.7), rgba(34, 34, 34, 0.7)), url("https://images.pexels.com/photos/3274903/pexels-photo-3274903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+.carousel-item {
+    height: 80vh;
+}
+
